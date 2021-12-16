@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 This is the source code of our TCSVT 2021 paper "MARS: Learning Modality-Agnostic Representation for 
 Scalable Cross-media Retrieval". Please cite the following paper if you use our code.
@@ -8,7 +8,7 @@ Cross-media Retrieval", IEEE Transactions on Circuits and Systems for Video Tech
 
 
 
-Preparation
+# Preparation
 
 We use Python 3.7.2, PyTorch 1.1.0, cuda 9.0, and evaluate on Ubuntu 16.04.12
 
@@ -23,7 +23,7 @@ We use Python 3.7.2, PyTorch 1.1.0, cuda 9.0, and evaluate on Ubuntu 16.04.12
 
 
 
-Training and evaluation
+# Training and evaluation
 
 We use the Wikipedia dataset as example, and the data is placed in ./datasets/Wiki. 
 In addition, the XMedia&XMediaNet datasets are obtiand via http://59.108.48.34/tiki/XMediaNet/.
