@@ -38,4 +38,4 @@ For any questions, fell free to contact us. (wangyunbo09@gmail.com)
 
 
 
-Welcome to our Laboratory Homepage for more information.
+Welcome to our Laboratory Homepage (http://59.108.48.34/tiki/paper/) for more information.
