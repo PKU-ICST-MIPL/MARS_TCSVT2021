@@ -34,7 +34,7 @@ python main_MARS.py --datasets wiki --output_shape 128 --batch_size 64 --epochs 
 
 The common representations can be found in folder "features".
 
-For any questions, fell free to contact us. (wangyunbo09@gmail.com)
+For any questions, feel free to contact us. (wangyunbo09@gmail.com)
 
 
 
